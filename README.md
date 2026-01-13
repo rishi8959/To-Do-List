@@ -84,6 +84,7 @@ README includes setup and run instructions
 # 👨‍💻 Author
 
 Name: RISHIKESH KUMRAWAT
+github Link:  https://github.com/rishi8959/To-Do-List.git
 Course: React / full stack Development
 Assignment: React Assignment-1
 
